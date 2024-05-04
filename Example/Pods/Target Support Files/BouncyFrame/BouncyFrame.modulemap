@@ -1,0 +1,6 @@
+framework module BouncyFrame {
+  umbrella header "BouncyFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

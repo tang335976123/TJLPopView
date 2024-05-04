@@ -1,0 +1,23 @@
+PODS:
+  - BouncyFrame (0.1.0):
+    - SnapKit
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - BouncyFrame (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  BouncyFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BouncyFrame: f11bf6c31a76a7bfcfa3270c153eacb759e3f922
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 4233a525206d7c0e43e339869dab12d92250fd03
+
+COCOAPODS: 1.12.1
